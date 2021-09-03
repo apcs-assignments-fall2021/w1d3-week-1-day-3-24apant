@@ -20,6 +20,7 @@ repositories {
 }
 
 dependencies {
+    implementation 'org.spongepowered:math:2.0.0'
     testImplementation('org.junit.jupiter:junit-jupiter:5.6.0')
 }
 
